@@ -6,6 +6,8 @@
 
 An interactive web application that recognizes handwritten digits (0-9) using a convolutional neural network (CNN) trained on the MNIST dataset.
 
+<img src="https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/6.png?v=1751235587148">
+
 **Important Notice:** This application only works locally due to Google's restrictions on cross-origin requests for the MNIST dataset.
 
 ## Features
