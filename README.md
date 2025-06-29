@@ -21,7 +21,7 @@ An interactive web application that recognizes handwritten digits (0-9) using a 
 ## Prerequisites
 
 - Node.js (v16+ recommended)
-- npm or yarn
+- npm
 - Modern web browser (Chrome, Firefox, Edge)
 
 ## Local Installation
