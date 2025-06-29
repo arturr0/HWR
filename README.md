@@ -25,7 +25,17 @@ An interactive web application that recognizes handwritten digits (0-9) using a 
 ## Local Installation
 
 1. **Download Node.JS** <a href="https://nodejs.org/en/download" target="_blank">nodejs.org/en/download</a>
-1. **Clone the repository**:
+2. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/neural-digit-recognition.git
-   cd neural-digit-recognition
+   git clone https://github.com/arturr0/HWR.git
+   cd hwr
+3. **Install http-server**:
+   ```bash
+   npm install -g http-server
+3. **Run**:
+   ```bash
+   node server.js
+4. **Run in browser http://localhost:3000**:
+   
+
+
