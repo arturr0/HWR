@@ -15,7 +15,7 @@ An interactive web application that recognizes handwritten digits (0-9) using a 
 - ✍️ Interactive drawing canvas
 - 🔍 Real-time digit classification
 - 📊 Confidence percentage display
-- 🧠 Pre-trained CNN model (99.2% accuracy)
+- 🧠 Pre-trained CNN model (80% accuracy)
 - 🎨 Modern UI with neural network visualization
 
 ## Prerequisites
