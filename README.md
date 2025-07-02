@@ -18,12 +18,6 @@ An interactive web application that recognizes handwritten digits (0-9) using a 
 - 🧠 Pre-trained CNN model (80% accuracy)
 - 🎨 Modern UI with neural network visualization
 
-## Prerequisites
-
-- Node.js (v16+ recommended)
-- npm
-- Modern web browser (Chrome, Firefox, Edge)
-
 ## Local Installation
 
 1. **Download Node.JS**
