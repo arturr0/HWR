@@ -32,7 +32,7 @@ An interactive web application that recognizes handwritten digits (0-9) using a 
 4. **Run**:
    ```bash
    node server.js
-5. **Run in browser http://localhost:3000**:
+5. **Run in browser http://localhost:3000**
    
 
 
